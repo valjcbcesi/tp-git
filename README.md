@@ -27,6 +27,10 @@ Voici un tableau récapitulatif des commandes Git utilisées tout au long de ce 
 | `git merge develop` | Fusionne les modifications de la branche `develop` vers la branche actuelle. |
 | `git rm <fichier>` | Supprime un fichier et prépare cette suppression pour le prochain commit. |
 
+---
+Diagramme du flow de commit
+---
+
 gitGraph
     commit id: "Initialisation"
     branch develop

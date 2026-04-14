@@ -31,6 +31,7 @@ Voici un tableau récapitulatif des commandes Git utilisées tout au long de ce 
 ---
 Diagramme du flow de commit
 ---
+'''mermaid
 gitGraph
     commit id: "Initialisation"
     branch develop

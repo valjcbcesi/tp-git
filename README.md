@@ -8,9 +8,10 @@ Sur Windows :
 Télécharger et installer https://gitforwindows.org/
 
 ### Liens utiles
-Voici les pages de documentation officielle utilisées pour ce TP :
-Documentation officielle de Git https://git-scm.com/docs
-Générer une clé SSH pour GitHub https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+Documentation officielle de Git
+https://git-scm.com/docs
+Générer une clé SSH pour GitHub
+https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 ### Commandes réalisées
 Voici un tableau récapitulatif des commandes Git utilisées tout au long de ce TP :
